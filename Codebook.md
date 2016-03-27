@@ -14,6 +14,8 @@ For each record the original dataset provided:
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
+The original dataset including description can be found at this URL: https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#
+
 ## Data Set 1: Cleaned and Merged Training and Test Data
 Data set 1 is stored in a variable "data" by the run_analysis.r script and contains the following data:
 - subject.id: numerical (integer) identifier of subject, values: 1-30 (as taken from the original data set)
