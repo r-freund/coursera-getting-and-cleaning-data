@@ -12,6 +12,7 @@ Data set 1 is stored in a variable "data" by the run_analysis.r script and conta
 Data set 2 is stored in a variable "data.means" by the run_analysis.r script and additionally written to disk in csv format as "means.csv". It contains the following data:
 - subject.id: numerical (integer) identifier of subject, values: 1-30 (as taken from the original data set)
 - activity: label of activity (coded as a factor in R), values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+
 The following variables contain the mean values of the respective variable name:
 - tBodyAcc-mean()-X
 - tBodyAcc-mean()-Y
